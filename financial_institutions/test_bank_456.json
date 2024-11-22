@@ -1,7 +1,7 @@
 {
   "name": "Test Bank 456",
   "lei": "123456789TESTBANK456",
-  "is_active": true,
+  "lei_status_code": "ISSUED",
   "tax_id": "88-9123456",
   "rssd_id": 4321,
   "primary_federal_regulator_id": "FRS",
